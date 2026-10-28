@@ -20,12 +20,17 @@
 
 </div>
 
-🎓 Student interested in software development.
-🐍 Learning Python and object-oriented programming.
-🌐 Building websites with HTML, CSS and JavaScript.
-🗄️ Studying SQL, PostgreSQL and database design.
-⚙️ Using Git and GitHub to manage my projects.
-🚀 Improving my skills one project at a time.
+
+
+---
+
+
+- 🎓 Student interested in software development.
+- 🐍 Learning Python and object-oriented programming.
+- 🌐 Building websites with HTML, CSS and JavaScript.
+- 🗄️ Studying SQL, PostgreSQL and database design.
+- ⚙️ Using Git and GitHub to manage my projects.
+- 🚀 Improving my skills one project at a time.
 
 ---
 
