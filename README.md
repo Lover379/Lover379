@@ -15,7 +15,7 @@
 <a href="https://github.com/Lover379">
   <img src="https://img.shields.io/badge/GitHub-Lover379-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Lover379&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+
 
 </div>
 
@@ -47,7 +47,6 @@
 
 </div>
 
----
 
 ## 🚀 Featured Projects & 📊 GitHub Stats
 
@@ -75,4 +74,3 @@
 </td>
 </tr>
 </table>
----
