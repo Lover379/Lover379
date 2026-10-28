@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:06b6d4&height=200&section=header&text=VEN1KFC&fontSize=65&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="VEN1KFC header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Hi%2C+I'm+VEN1KFC+%F0%9F%91%8B;Python+%2B+JavaScript+%2B+SQL;Web+Development+%26+Databases;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Hi%2C+I'm+VEN1KFC+%F0%9F%91%8B;Python+%2B+JavaScript+%2B+SQL;Web+Development+%26+Databases" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -21,7 +21,6 @@
 
 ---
 
-## 👨‍💻 About Me
 
 - 🎓 Student interested in software development.
 - 🐍 Learning Python and object-oriented programming.
@@ -85,21 +84,3 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 📚 Practicing Python and JavaScript.
-- 🗃️ Improving my SQL and PostgreSQL skills.
-- 🌐 Developing interactive web projects.
-- 🔧 Learning to write cleaner and more maintainable code.
-
----
-
-<div align="center">
-
-### 💬 Thanks for visiting my profile!
-
-*Code. Learn. Build. Repeat.* ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:09090f&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
-
-</div>
