@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:312e81,100:06b6d4&height=200&section=header&text=VEN1KFC&fontSize=65&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="VEN1KFC header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:6d28d9,100:c084fc&height=200&section=header&text=VEN1KFC&fontSize=65&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="VEN1KFC header"/>
 
+</div>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Hi%2C+I'm+VEN1KFC+%F0%9F%91%8B;Python+%2B+JavaScript+%2B+SQL;Web+Development+%26+Databases" alt="Typing SVG"/>
 </a>
