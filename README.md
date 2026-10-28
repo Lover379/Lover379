@@ -78,7 +78,6 @@
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lover379&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
