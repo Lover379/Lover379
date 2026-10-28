@@ -72,9 +72,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lover379&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lover379&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<img height="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lover379&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 <br/>
 
