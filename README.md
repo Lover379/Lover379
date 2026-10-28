@@ -49,35 +49,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & 📊 GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 <a href="https://github.com/Lover379/JDM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=JDM&theme=tokyonight&hide_border=true" alt="JDM project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=JDM&theme=tokyonight&hide_border=true" width="100%" alt="JDM"/>
 </a>
+
 <a href="https://github.com/Lover379/DataBase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=DataBase&theme=tokyonight&hide_border=true" alt="DataBase project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=DataBase&theme=tokyonight&hide_border=true" width="100%" alt="DataBase"/>
 </a>
 
-</div>
+<a href="https://github.com/Lover379/PRAKTIC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=PRAKTIC&theme=tokyonight&hide_border=true" width="100%" alt="PRAKTIC"/>
+</a>
 
-- 🏎️ **[JDM](https://github.com/Lover379/JDM)** — a website dedicated to Japanese car culture.
-- 🗄️ **[DataBase](https://github.com/Lover379/DataBase)** — SQL coursework and database projects.
-- 💻 **[PRAKTIC](https://github.com/Lover379/PRAKTIC)** — JavaScript practice and programming exercises.
+</td>
+<td width="45%" valign="top" align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lover379&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lover379&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br/>
-
-
-</div>
-
----
-
