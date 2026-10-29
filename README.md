@@ -55,7 +55,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://github.com/Lover379/JDM">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lover379&repo=JDM&theme=tokyonight&hide_border=true" width="100%" alt="JDM"/>
@@ -70,7 +70,7 @@
 </a>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lover379&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages"/>
 
